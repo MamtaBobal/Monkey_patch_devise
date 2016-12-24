@@ -1,0 +1,2 @@
+I've added a boolean field admin into USER model, this field will be true for the employee who will have special priviledge to login as any user, and false for others.
+He can login using only email id and then proceed just like any other authenticated user.
